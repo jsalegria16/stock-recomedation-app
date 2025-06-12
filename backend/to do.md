@@ -1,0 +1,1 @@
+export DATABASE_URL="postgresql://jsalegria:hfqjUjOTfAAKy6r-YTWcQA@stock-recomendation-12330.j77.aws-us-east-1.cockroachlabs.cloud:26257/Stocks?sslmode=verify-full"
